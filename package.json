@@ -59,7 +59,7 @@
       "@storybook/addon-links": "^5.2.1",
       "@storybook/addon-notes": "^5.2.1",
       "@storybook/addons": "^5.2.1",
-      "@storybook/react": "^5.2.1",
+      "@storybook/react": "^6.5.12",
       "@storybook/storybook-deployer": "^2.8.1",
       "autoprefixer": "^9.7.1",
       "babel-core": "7.0.0-bridge.0",
